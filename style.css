@@ -1,0 +1,19 @@
+body
+{
+	text-align: center;
+	background-color: #FF6600; 
+	
+}
+span
+{
+	font-size: 18px;
+	color: red;
+}
+canvas
+{
+	background: #ffaa71;
+	border-radius: 20px;
+}
+h3{
+	color:rgb(161, 0, 0); 
+}
